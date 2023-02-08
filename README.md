@@ -7,7 +7,7 @@ This is a pure PHP SDK for working with BIP-44 standart
 ## Installing
 
 ```bash
-composer require minter/minter-php-bip-44
+composer require fenguoz/minter-php-bip-44
 ```
 
 ## Using SDK
