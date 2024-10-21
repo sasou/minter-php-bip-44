@@ -1,5 +1,5 @@
 {
-  "name": "fenguoz/minter-php-bip-44",
+  "name": "sasou/minter-php-bip-44",
   "autoload": {
     "psr-0" : {
       "BIP\\" : "src"
